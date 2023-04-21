@@ -1,11 +1,10 @@
-*{
+body{
     margin: 0%;
     padding: 0%;
     background: #0A3871;
 }
 
 .juank{
-    
     position: absolute;
     width: 220px;
     height: 5px;
